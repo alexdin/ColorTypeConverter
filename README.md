@@ -19,3 +19,5 @@ var colorObj = new colorConvert();
 var rgb = colorObj.HexToRgb('rgb(61, 249, 51)');
 console.log(rgb);
 ```
+Contacts alex_d.93@mail.ru skype alex-din
+-----------------------------------
