@@ -9,7 +9,7 @@ console.log(hls);
 Hex to HSL 
 ```js
 var colorObj = new colorConvert();
-var hls = colorObj.HexToHsl('rgb(61, 249, 51)');
+var hls = colorObj.HexToHsl('#3df933');
 console.log(hls);
 ```
 
